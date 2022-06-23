@@ -24,18 +24,9 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Mis Libros</a>
+                        <a class="nav-link" href="productos.php">Libros</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Categorias</a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">terror</a>
-                            <a class="dropdown-item" href="#">comedia</a>
-                            <a class="dropdown-item" href="#">ciencia</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Separated link</a>
-                        </div>
-                    </li>
+
                     <li class="nav-item">
                         <a class="nav-link" href="Nosotros.php">Nosotros</a>
                     </li>
@@ -48,5 +39,8 @@
         </div>
     </nav>
 
+    <br>
+    <br>
+    
     <div class="container">
         <div class="row">
